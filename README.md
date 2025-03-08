@@ -1,2 +1,2 @@
 # IC25
-MindPetal Design Challenge: verify.ai
+MindPetal Design Challenge: verify.io
